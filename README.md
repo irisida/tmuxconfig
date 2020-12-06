@@ -1,0 +1,2 @@
+# tmuxconfig
+config for tmux
